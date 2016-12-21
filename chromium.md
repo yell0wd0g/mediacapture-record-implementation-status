@@ -4,7 +4,7 @@ This document shows the status of Chrome Media Recorder usage of hardware accele
 
 Encoder   | Mac| Android                  | Windows | Linux | ChromeOs |
 --------- |:--:| :-----:                  | :-----: | :----:| :------: |
- H264     |&#10004; | https://crbug.com/638664 | https://crbug.com/631783 |&#10008;|  https://crbug.com/616659 |
+ H264     |&#10004; | https://crbug.com/638664 | https://crbug.com/590060 |&#10008;|  https://crbug.com/616659 |
  VP8      |&#10008;| https://crbug.com/638664 |&#10008;|&#10008;|  https://crbug.com/616659 |
 
 At the time of writing, VP9 hardware encode acceleration is supported in no platforms.
