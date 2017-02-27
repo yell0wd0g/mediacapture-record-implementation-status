@@ -7,7 +7,7 @@ Encoder   | Mac| Android                  | Windows | Linux | ChromeOs |
  H264     |&#10004; | [crbug.com/638664](https://crbug.com/638664) | &#8805; 58.0.3023.0 (1) |&#10008;|  [crbug.com/616659](https://crbug.com/616659) |
  VP8      |&#10008;| [crbug.com/638664](https://crbug.com/638664) |&#10008;|&#10008;|  [crbug.com/616659](https://crbug.com/616659) |
 
-(1) Available in Win8.1+ ([crbug.com/631783](https://crbug.com/631783))
+(1) Available in Win8.1+ ([crbug.com/590060](https://crbug.com/590060))
 
 At the time of writing, VP9 hardware encode acceleration is supported in no platforms.
 
