@@ -16,17 +16,17 @@ Encoder   | Mac    | Android      | Windows     | Linux  | ChromeOs      |
 
 Support in Chrome for hardware accelerate encoding in Chrome OS depends on the actual chipset; the following table is
 
-Chipset                           | H264     | VP8      |
-----------------------------------|:--------:|:--------:|
-Intel Atom (2014)                 | &#10004; |          |
-Intel Broadwell (2014)            | &#10004; |          |
-Intel Atom (2015)                 | &#10004; |          |
-Intel Skylake (2015)              | &#10004; |          |
-Intel Kabylake (2017)             | &#10004; | &#10004; |
-Exynos 5250 (ARM)                 | &#10004; |          |
-Exynos 5420/5800 (ARM)            | &#10004; | &#10004; |
-Tegra T124/T132 (ARM)             | &#10004; | &#10004; |
-Rockchip 3288 (ARM)               |          | &#10004; |
-MediaTek 8173 (ARM)               | &#10004; | &#10004; |
+Chipset                           | H264     | VP8      | VP9      |
+----------------------------------|:--------:|:--------:|:--------:|
+Intel Atom (2014)                 | &#10004; |          |          |
+Intel Broadwell (2014)            | &#10004; |          |          |
+Intel Atom (2015)                 | &#10004; |          |          |
+Intel Skylake (2015)              | &#10004; |          |          |
+Intel Kabylake (2017)             | &#10004; | &#10004; | &#10004; |
+Exynos 5250 (ARM)                 | &#10004; |          |          |
+Exynos 5420/5800 (ARM)            | &#10004; | &#10004; |          |
+Tegra T124/T132 (ARM)             | &#10004; | &#10004; |          |
+Rockchip 3288 (ARM)               |          | &#10004; |          |
+MediaTek 8173 (ARM)               | &#10004; | &#10004; |          |
 
 
